@@ -1,0 +1,40 @@
+nav{
+    background-color: pink;
+    width: 200px;
+    height: 500px;
+    text-align: center;
+}
+
+.satu{
+    display: flex;
+}
+
+.tiga{
+    display: flex;
+}
+header{
+    width: 800px;
+    height: 100px;
+    text-align: center;
+    background-color: khaki;
+    display: flex;
+}
+article{
+    background-color:beige;
+    width: 600px;
+    height: 300px;
+    text-align: center;
+}
+
+aside{
+    background-color:aqua;
+    width: 200px;
+    height: 300px;
+}
+
+footer{
+    width: 800px;
+    height: 100px;
+    background-color:khaki;
+    display: flex;
+}
